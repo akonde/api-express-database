@@ -9,3 +9,4 @@ CREATE TABLE IF NOT EXISTS books (
   publication_date DATE           NOT NULL,
   pages             INTEGER        NOT NULL
 );
+ 
